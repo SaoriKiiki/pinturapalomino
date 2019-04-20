@@ -1,0 +1,57 @@
+.headfont
+  {
+    font-family: 'Lora';
+    font-size: 100px;
+    margin: 50px 10px 10px 50px;
+  }
+
+.bodyfont
+  {
+    font-family: 'Lora';
+    font-size: 50px;
+    margin: 50px 10px 10px 50px;
+    width: 1800px;
+  }
+
+img.perfil
+  {
+    width: 1500px;
+    margin: 100px 10px 120px 50px;
+    border-radius: 50px;
+  }
+
+div.section
+    {
+    float: center;
+    margin: 100px 10px 80px 50px;
+    }
+
+img
+ {
+   width: 350px;
+ }
+
+
+
+ a:link {
+  color: blue;
+  text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(84, 145, 242);
+  text-decoration:none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  text-decoration:none;
+}
+
+/* selected link */
+a:active {
+  color: red;
+  text-decoration:none;
+}
